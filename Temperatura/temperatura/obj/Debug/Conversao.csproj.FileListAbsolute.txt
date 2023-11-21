@@ -1,0 +1,10 @@
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.Form1.resources
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.Properties.Resources.resources
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.csproj.GenerateResource.cache
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Users\edilson.csilva10\source\repos\Programar\Atividade\Conversao\Conversao\obj\Debug\Conversao.pdb
